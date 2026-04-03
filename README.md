@@ -45,10 +45,10 @@ The app will be available at `http://localhost:5173/`
 - **Insights Engine**: Auto-computed financial observations based on current data.
 
 ### Enhancements
-- ✅ **Dark Mode**: Fully implemented `dark` theme toggling with aesthetic deep-navy palettes.
-- ✅ **localStorage Persistence**: Transactions, role, and theme preference survive page refresh.
-- ✅ **CSV / JSON Export**: Complete robust data-export capabilities straight from the browser.
-- ✅ **Responsive Design**: Polished layout reflowing across Mobile, Tablet, and Desktop.
+- **Dark Mode**: Fully implemented `dark` theme toggling with aesthetic deep-navy palettes.
+- **localStorage Persistence**: Transactions, role, and theme preference survive page refresh.
+- **CSV / JSON Export**: Complete robust data-export capabilities straight from the browser.
+- **Responsive Design**: Polished layout reflowing across Mobile, Tablet, and Desktop.
 
 ## State Management Approach
 
