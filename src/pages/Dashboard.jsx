@@ -29,7 +29,7 @@ export default function Dashboard() {
   // detect time for greeting
   const hour = new Date().getHours();
   const greeting = hour < 12 ? "Good morning" : hour < 18 ? "Good afternoon" : "Good evening";
-  const userName = "Jhon"; // Matches the mock user in the Sidebar
+  const userName = "Satish"; // Matches the mock user in the Sidebar
 
   const balanceChange = insights.savingsThisMonth !== undefined && totals.income > 0
     ? ((totals.balance / totals.income) * 100).toFixed(1)
